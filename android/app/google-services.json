@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555460734754",
+    "project_id": "controlled-env-app",
+    "storage_bucket": "controlled-env-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555460734754:android:cb5ce70158521bbcad7f7b",
+        "android_client_info": {
+          "package_name": "com.example.fh_mini_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555460734754-09lr8qe34dal969sfs1p0k44i670o6o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fh_mini_app",
+            "certificate_hash": "e6fee68f7f06da65dfb4f2725cd5e911fb1e5738"
+          }
+        },
+        {
+          "client_id": "555460734754-4v0sln1sge690lki5snj8is0cs4rp8ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fh_mini_app",
+            "certificate_hash": "5b3ac75098e4fd71f097efcf4b940c0b00007aff"
+          }
+        },
+        {
+          "client_id": "555460734754-421pm071cu7ut8qg1cm0bm3jbnpm6uls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroXTk2W6HJJVVrx5i3QpcNHnn9LPeh6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555460734754-421pm071cu7ut8qg1cm0bm3jbnpm6uls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
